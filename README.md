@@ -9,7 +9,7 @@ Lab instructions: <https://ucsb-cs156.github.io/w22/lab/team01/>
 |-----------|-----------|-----------------------------|---------------------------| 
 |  syg      |  syg      | `LocationQueryService`      | `LocationController`      |   
 |           |           | `PublicHolidayQueryService` | `PublicHolidayController` |   
-|           |           | `RedditQueryService`        | `RedditController`        |   
+|  syg      |  syg      | `RedditQueryService`        | `RedditController`        |   
 |           |           | `TidesQueryService`         | `TidesController`         |   
 |           |           | `UniversityQueryService`    | `UniversityController`    |
 |  syg      | syg       | `ZipCodeQueryService`       | `ZipCodeController`       |
