@@ -1,4 +1,4 @@
-# STARTER-team01
+# team01-w22-syg
 
 Lab instructions: <https://ucsb-cs156.github.io/w22/lab/team01/>
 
@@ -7,12 +7,12 @@ Lab instructions: <https://ucsb-cs156.github.io/w22/lab/team01/>
 ```
 |   Name    | GitHub Id |  Service                    | Controller                |
 |-----------|-----------|-----------------------------|---------------------------| 
-|           |           | `LocationQueryService`      | `LocationController`      |   
+|  syg      |  syg      | `LocationQueryService`      | `LocationController`      |   
 |           |           | `PublicHolidayQueryService` | `PublicHolidayController` |   
 |           |           | `RedditQueryService`        | `RedditController`        |   
 |           |           | `TidesQueryService`         | `TidesController`         |   
 |           |           | `UniversityQueryService`    | `UniversityController`    |
-|           |           | `ZipCodeQueryService`       | `ZipCodeController`       |
+|  syg      | syg       | `ZipCodeQueryService`       | `ZipCodeController`       |
 ```
 
 
@@ -24,14 +24,14 @@ Lab instructions: <https://ucsb-cs156.github.io/w22/lab/team01/>
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-w22/w22-5pm-2-team01
+  https://github.com/shuyashou/team01-w22-syg
 
-Repo: https://ucsb-cs156-w22/STARTER-team01
+Repo: https://shuyashou/team01-w22-syg
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
   a link to your running app on Heroku, e.g.
-  https://cs156-w22-5pm-2-team01.herokuapp.com
+  https://team01-w22-syg.herokuapp.com
 
 On Heroku: https://cs156-w22-5pm-2-team01.herokuapp.com
 
